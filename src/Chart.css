@@ -1,0 +1,21 @@
+.chart {
+    margin: 2%;
+}
+
+.domain {
+    stroke: lightgray;
+}
+
+.tick line {
+    stroke: lightgray;
+    fill: lightgray;
+}
+
+.tick text {
+    fill: #6f7477;
+}
+
+.lineText {
+    fill: lightgray;
+    font-size: .7em;
+} 

@@ -2,5 +2,11 @@
 .App {
   font-family: sans-serif;
   margin: 2%;
+  max-width: 1500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
 }
  
